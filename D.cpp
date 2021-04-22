@@ -1,7 +1,7 @@
 <html>
   <body>
     <head>please login</head>
-    <form action="welcome.html">
+    <form action="E.cpp">
       <h3>
       username:<input type="text" name="uname"><br>
       password:<input type="password" value="password">
