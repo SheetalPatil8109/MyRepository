@@ -1,8 +1,9 @@
-<html>
-  <body>
-    <head></head>
-    <h3>welcome to home page</h3>
-    
-  </body>
-</html>
+#include<iostream>
+int main()
+{
+
+std::cout<<"hello world!";
+std::cout<<"good morning";
+
+  return 0;
  
